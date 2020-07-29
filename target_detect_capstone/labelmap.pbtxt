@@ -1,0 +1,15 @@
+item {
+  id: 1
+  name: 'Friendly'
+}
+
+item {
+  id: 2
+  name: 'Enemy'
+}
+
+item {
+  id: 3
+  name: 'enemy'
+}
+
